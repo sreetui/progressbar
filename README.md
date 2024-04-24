@@ -5,7 +5,7 @@ Please click below link to see the screenshots
 
 "[Progressbar](https://github.com/sreetui/progressbar/blob/main/screenshots.pdf)"
 
-Click below link to access the confirmation dialog from aws cloud. Please click on "Load" button to run the progressbar.
+Click below link to access the confirmation dialog from aws cloud.
 
 "[Progressbar](http://sreetui-progressbar.s3-website-us-east-1.amazonaws.com/)"
 
