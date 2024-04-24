@@ -3,7 +3,7 @@ Simple progressbar implemented by plain HTML, JavaScript and CSS using Template 
 
 Please click below link to see the screenshots
 
-"[Progressbar](https://github.com/sreetui/progressbar/blob/main/Screenshots.pdf)"
+"[Progressbar](https://github.com/sreetui/progressbar/blob/main/screenshots.pdf)"
 
 Click below link to access the confirmation dialog from aws cloud
 
