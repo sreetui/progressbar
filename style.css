@@ -1,0 +1,31 @@
+.progressbar-section {
+    position: relative;
+    width: 20rem;
+    height: 3rem;
+}
+
+.progressbar-btn {
+    width: 20rem;
+    height: 100%;
+    border: 0;
+    border-radius: 1px;
+    background-color: green;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.cover-btn {
+    background-color: lightgreen;
+    box-sizing: border-box;
+    position: absolute;
+    width: 0%;
+    top: 0;
+    left: 0;
+    opacity: 0.4;
+    transition: width 0.5s;
+}
+
+.not-allowed {
+    cursor: not-allowed;
+}
+

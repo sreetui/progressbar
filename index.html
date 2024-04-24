@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prgoress Bar</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <section data-componentId="progressBarSection" class="progressbar-section" role="Progress Bar"
+        aria-label="Progress Bar">
+        <button  class="progressbar-btn"></button>
+        <div class="progressbar-btn cover-btn"></div>
+    </section>
+    <template data-template-for="progress" data-template-id="progressLoad">
+        <span>Load</span>
+    </template>
+    <template data-template-for="progress" data-template-id="progressLoading">
+        <span>Loading...</span>
+    </template>
+    <template data-template-for="progress" data-template-id="progressComplete">
+        <span>Completed</span>
+    </template>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
